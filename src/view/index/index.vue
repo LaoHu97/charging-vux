@@ -55,10 +55,6 @@
           value: '3.00'
         }, {
           value: '4.00'
-        }, {
-          value: '5.00'
-        }, {
-          value: '6.00'
         }],
         cashierResults: [
           {
